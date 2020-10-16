@@ -1,0 +1,3 @@
+include ':depentest'
+include ':app'
+rootProject.name = "dependTest"
